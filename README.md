@@ -14,3 +14,10 @@ These are small example apps, explaining the basic functionality of R Shiny.
 - How to define output
 - render Functions
 - reactive expressions
+
+## Dependencies
+
+```
+install.packages("shiny")
+install.packages("bslib") # only needed for 1 app
+```
